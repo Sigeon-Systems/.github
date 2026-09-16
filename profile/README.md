@@ -14,16 +14,18 @@ Make sure that while joining Sigeon System, please do not cause drama or join wi
 <br>
 
 > Interested in joining? <br>
+> Read the requirements. <br>
 > Email us at root@sigeon.xyz <br>
 
+
 <details>
-  <summary>Requirements</summary>
-  
+   <summary>Requirements</summary>
+    
   ## Requirements to contribute directly to SigeonOS
-  
-  ### Knowing C
-  - You gotta learn C, its programmed in it.
-  - And also kernel level knowledge
+   
+   ### Knowing C
+   - You gotta learn C, its programmed in it.
+   - And also kernel level knowledge
   
   ### Ai/Vibe Coding
   - We do allow of the use of Artificial Intelligence with exceptions.
